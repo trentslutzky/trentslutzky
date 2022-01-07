@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Trent 👋
+I do stuff
 
 <!--
 **trentslutzky/trentslutzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
