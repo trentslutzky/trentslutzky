@@ -2,4 +2,4 @@
 
 When I'm not working, I write software for fun. Websites, games, other cool stuff.
 
-Proud linux user.
+[Proud linux user.](https://github.com/trentslutzky/.dotfiles)
