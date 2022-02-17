@@ -1,2 +1,5 @@
 ### Hi, I'm Trent 👋
-Mostly write programs for my own use, websites, games, other cool stuff.
+
+When I'm not working, I write software for fun. Websites, games, other cool stuff.
+
+Proud linux user.
